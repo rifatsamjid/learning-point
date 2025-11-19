@@ -1,0 +1,74 @@
+[
+  {
+    "skillId": 1,
+    "skillName": "Beginner Guitar Lessons",
+    "providerName": "Alex Martin",
+    "providerEmail": "alex@skillswap.com",
+    "price": 20,
+    "rating": 4.8,
+    "slotsAvailable": 3,
+    "description": "Learn the basics of acoustic guitar playing, including chords, strumming, and rhythm exercises. Perfect for complete beginners.",
+    "image": "https://i.ibb.co.com/PpHWby9/guitar-lessons-1568x896.jpg",
+    "category": "Music"
+  },
+  {
+    "skillId": 2,
+    "skillName": "Spoken English Practice",
+    "providerName": "Sara Hossain",
+    "providerEmail": "sara@skillswap.com",
+    "price": 10,
+    "rating": 4.6,
+    "slotsAvailable": 5,
+    "description": "Interactive sessions to improve fluency, pronunciation, and confidence in spoken English for non-native speakers.",
+    "image": "https://i.ibb.co.com/Q7qpGCp5/Spoken-English-Practice-blog-banner.webp",
+    "category": "Language"
+  },
+  {
+    "skillId": 3,
+    "skillName": "Frontend Web Development",
+    "providerName": "Rafi Ahmed",
+    "providerEmail": "rafi@skillswap.com",
+    "price": 25,
+    "rating": 4.9,
+    "slotsAvailable": 2,
+    "description": "Learn HTML, CSS, and JavaScript to build responsive and interactive websites from scratch.",
+    "image": "https://i.ibb.co.com/S7ZqCmfJ/1680514548971.jpg",
+    "category": "Technology"
+  },
+  {
+    "skillId": 4,
+    "skillName": "Digital Illustration Basics",
+    "providerName": "Lina Chowdhury",
+    "providerEmail": "lina@skillswap.com",
+    "price": 18,
+    "rating": 4.7,
+    "slotsAvailable": 4,
+    "description": "Master the fundamentals of digital drawing using Procreate and Adobe Illustrator. No prior experience required.",
+    "image": "https://i.ibb.co.com/TDsb2Pbh/00bf086-6e2e-d83b-735b-a24bf6b786f8-Untitled-design-4.jpg",
+    "category": "Art & Design"
+  },
+  {
+    "skillId": 5,
+    "skillName": "Yoga for Stress Relief",
+    "providerName": "Neha Sharma",
+    "providerEmail": "neha@skillswap.com",
+    "price": 15,
+    "rating": 4.5,
+    "slotsAvailable": 6,
+    "description": "Gentle yoga sessions focused on relaxation, mindfulness, and improving mental clarity. Suitable for all ages.",
+    "image": "https://i.ibb.co.com/tPPjytWR/images-1.jpg",
+    "category": "Wellness"
+  },
+  {
+    "skillId": 6,
+    "skillName": "Photography for Beginners",
+    "providerName": "Tom Wilson",
+    "providerEmail": "tom@skillswap.com",
+    "price": 22,
+    "rating": 4.8,
+    "slotsAvailable": 3,
+    "description": "Learn how to capture stunning photos using DSLR or smartphone cameras. Covers lighting, composition, and editing basics.",
+    "image": "https://i.ibb.co.com/bRqZypcF/images-2.jpg",
+    "category": "Creative Skills"
+  }
+]
